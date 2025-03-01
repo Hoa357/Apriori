@@ -1,0 +1,916 @@
+{
+    "maximal_frequent_itemsets": [
+        [
+            [
+                "Cá hồi",
+                "Cá thu",
+                "Thịt bò",
+                "Thịt heo"
+            ],
+            68
+        ],
+        [
+            [
+                "Gà",
+                "Mì tôm",
+                "Thịt heo",
+                "Đậu xanh"
+            ],
+            70
+        ],
+        [
+            [
+                "Cá hồi",
+                "Gà",
+                "Thịt bò",
+                "Thịt heo",
+                "Đậu xanh"
+            ],
+            51
+        ],
+        [
+            [
+                "Cà phê",
+                "Nước  cây",
+                "Nước ngọt",
+                "Trà"
+            ],
+            65
+        ],
+        [
+            [
+                "Chảo",
+                "Dao",
+                "Nước tăng lực",
+                "Nồi nấu ăn"
+            ],
+            65
+        ],
+        [
+            [
+                "Chảo",
+                "Dao",
+                "Nồi nấu ăn",
+                "Thìa"
+            ],
+            68
+        ],
+        [
+            [
+                "Chảo",
+                "Dao",
+                "Thìa",
+                "Thớt"
+            ],
+            65
+        ],
+        [
+            [
+                "Dao",
+                "Muối",
+                "Thìa",
+                "Thớt"
+            ],
+            73
+        ],
+        [
+            [
+                "Dầu ăn",
+                "Nước mắm",
+                "Tiêu",
+                "Đường"
+            ],
+            70
+        ],
+        [
+            [
+                " cây đông lạnh",
+                "Rau củ đông lạnh",
+                "Thực phẩm đóng hộp (cá)",
+                "Thực phẩm đóng hộp (thịt)"
+            ],
+            65
+        ],
+        [
+            [
+                " cây đông lạnh",
+                "Bánh bao đông lạnh",
+                "Cá đông lạnh",
+                "Pizza đông lạnh",
+                "Thịt đông lạnh"
+            ],
+            54
+        ],
+        [
+            [
+                " cây đông lạnh",
+                "Cá đông lạnh",
+                "Pizza đông lạnh",
+                "Rau củ đông lạnh",
+                "Thịt đông lạnh"
+            ],
+            54
+        ],
+        [
+            [
+                " cây đông lạnh",
+                "Cá đông lạnh",
+                "Rau củ đông lạnh",
+                "Thịt đông lạnh",
+                "Thực phẩm đóng hộp (cá)"
+            ],
+            50
+        ],
+        [
+            [
+                "Bánh chưng đông lạnh",
+                "Hạt dẻ",
+                "Khoai tây chiên",
+                "Snack"
+            ],
+            65
+        ],
+        [
+            [
+                "Hạt hướng dương",
+                "Hạt điều",
+                "Phấn",
+                "Son"
+            ],
+            64
+        ],
+        [
+            [
+                "Hạt hướng dương",
+                "Kem dưỡng da",
+                "Phấn",
+                "Son"
+            ],
+            71
+        ],
+        [
+            [
+                "Dầu xả",
+                "Kem chống nắng",
+                "Sữa bột cho trẻ em",
+                "Sữa rửa mặt"
+            ],
+            60
+        ],
+        [
+            [
+                "Kem chống nắng",
+                "Sữa bột cho trẻ em",
+                "Sữa rửa mặt",
+                "Tã giấy"
+            ],
+            58
+        ],
+        [
+            [
+                "Cà rốt",
+                "Hành tây",
+                "Sách truyện cho trẻ em",
+                "Đồ chơi cho trẻ em"
+            ],
+            60
+        ],
+        [
+            [
+                "Hành tây",
+                "Khăn giấy cho trẻ em",
+                "Sách truyện cho trẻ em",
+                "Đồ chơi cho trẻ em"
+            ],
+            56
+        ],
+        [
+            [
+                "Bí đỏ",
+                "Cà rốt",
+                "Cải xanh",
+                "Hành tây",
+                "Sách truyện cho trẻ em"
+            ],
+            53
+        ],
+        [
+            [
+                "Bí đỏ",
+                "Cà rốt",
+                "Cải xanh",
+                "Hành tây",
+                "Đậu bắp"
+            ],
+            53
+        ],
+        [
+            [
+                "Cải thìa",
+                "Hành tím",
+                "Su su",
+                "Tỏi",
+                "Ớt"
+            ],
+            54
+        ],
+        [
+            [
+                "Gừng",
+                "Hành tím",
+                "Su su",
+                "Tỏi",
+                "Ớt"
+            ],
+            56
+        ],
+        [
+            [
+                "Lá chanh",
+                "Lá lốt",
+                "Riềng",
+                "Sả"
+            ],
+            60
+        ],
+        [
+            [
+                "Bánh phồng tôm",
+                "Bánh tráng",
+                "Hành phi",
+                "Tương ớt"
+            ],
+            66
+        ],
+        [
+            [
+                "Bánh phồng tôm",
+                "Hành phi",
+                "Tương cà",
+                "Tương ớt"
+            ],
+            61
+        ],
+        [
+            [
+                "Hành phi",
+                "Mayonnaise",
+                "Tương cà",
+                "Tương ớt"
+            ],
+            56
+        ],
+        [
+            [
+                "Bia",
+                "Cocktail đóng chai",
+                "Rượu mạnh",
+                "Rượu vang"
+            ],
+            66
+        ],
+        [
+            [
+                "Bia",
+                "Nước khoáng",
+                "Nước lọc có ga",
+                "Nước suối"
+            ],
+            67
+        ],
+        [
+            [
+                "Cocktail đóng chai",
+                "Nước dừa",
+                "Nước giải khát",
+                "Nước ngọt có ga"
+            ],
+            68
+        ],
+        [
+            [
+                "Cocktail đóng chai",
+                "Nước giải khát",
+                "Nước ngọt có ga",
+                "Rượu mạnh"
+            ],
+            62
+        ],
+        [
+            [
+                "Cocktail đóng chai",
+                "Nước ngọt có ga",
+                "Rượu mạnh",
+                "Rượu vang"
+            ],
+            65
+        ],
+        [
+            [
+                "Nước khoáng",
+                "Nước lọc có ga",
+                "Nước suối",
+                "Đường phèn"
+            ],
+            67
+        ],
+        [
+            [
+                "Nước khoáng",
+                "Nước suối",
+                "Đường cát",
+                "Đường phèn"
+            ],
+            61
+        ],
+        [
+            [
+                "Nước khoáng",
+                "Sữa đặc",
+                "Đường cát",
+                "Đường phèn"
+            ],
+            64
+        ],
+        [
+            [
+                "Bia",
+                "Nước lọc có ga",
+                "Nước suối",
+                "Rượu mạnh",
+                "Rượu vang"
+            ],
+            50
+        ],
+        [
+            [
+                "Mật ong",
+                "Nước cam",
+                "Sữa hạt",
+                "Sữa đậu nành"
+            ],
+            68
+        ],
+        [
+            [
+                "Nước cam",
+                "Nước chanh",
+                "Sữa hạt",
+                "Sữa đậu nành"
+            ],
+            73
+        ],
+        [
+            [
+                "Gel vuốt tóc",
+                "Gạo",
+                "Mì tôm",
+                "Thuốc nhuộm tóc"
+            ],
+            64
+        ],
+        [
+            [
+                "Gel vuốt tóc",
+                "Gà",
+                "Gạo",
+                "Mì tôm",
+                "Đậu xanh"
+            ],
+            53
+        ],
+        [
+            [
+                "Cá hồi",
+                "Cá thu",
+                "Sữa chua",
+                "Sữa tươi"
+            ],
+            64
+        ],
+        [
+            [
+                "Cá thu",
+                "Phô mai",
+                "Sữa chua",
+                "Sữa tươi"
+            ],
+            69
+        ],
+        [
+            [
+                "Bột giặt",
+                "Giấy vệ sinh",
+                "Giấy ăn",
+                "Kem đánh răng",
+                "Nước xả vải"
+            ],
+            53
+        ],
+        [
+            [
+                "Bột giặt",
+                "Giấy vệ sinh",
+                "Giấy ăn",
+                "Nước lọc",
+                "Nước xả vải"
+            ],
+            52
+        ],
+        [
+            [
+                "Cà phê",
+                "Nước  cây",
+                "Nước tăng lực",
+                "Trà"
+            ],
+            67
+        ],
+        [
+            [
+                "Muối",
+                "Thìa",
+                "Thớt",
+                "Đường"
+            ],
+            65
+        ],
+        [
+            [
+                "Muối",
+                "Thớt",
+                "Tiêu",
+                "Đường"
+            ],
+            59
+        ],
+        [
+            [
+                "Nước mắm",
+                "Thực phẩm đóng hộp (cá)",
+                "Thực phẩm đóng hộp (rau)",
+                "Thực phẩm đóng hộp (thịt)"
+            ],
+            67
+        ],
+        [
+            [
+                "Rau củ đông lạnh",
+                "Thực phẩm đóng hộp (cá)",
+                "Thực phẩm đóng hộp (rau)",
+                "Thực phẩm đóng hộp (thịt)"
+            ],
+            67
+        ],
+        [
+            [
+                "Dầu xả",
+                "Kem dưỡng da",
+                "Phấn",
+                "Son"
+            ],
+            63
+        ],
+        [
+            [
+                "Khăn giấy cho trẻ em",
+                "Sách truyện cho trẻ em",
+                "Tã giấy",
+                "Đồ chơi cho trẻ em"
+            ],
+            67
+        ],
+        [
+            [
+                "Bí đỏ",
+                "Cải thìa",
+                "Cải xanh",
+                "Đậu bắp"
+            ],
+            59
+        ],
+        [
+            [
+                "Bí đỏ",
+                "Cải thìa",
+                "Su su",
+                "Đậu bắp"
+            ],
+            58
+        ],
+        [
+            [
+                "Gừng",
+                "Hành tím",
+                "Riềng",
+                "Tỏi",
+                "Ớt"
+            ],
+            50
+        ],
+        [
+            [
+                "Bánh tráng",
+                "Lá chanh",
+                "Lá lốt",
+                "Sả"
+            ],
+            63
+        ],
+        [
+            [
+                "Bánh phồng tôm",
+                "Bánh tráng",
+                "Hành phi",
+                "Lá chanh",
+                "Lá lốt"
+            ],
+            51
+        ],
+        [
+            [
+                "Mayonnaise",
+                "Sữa đặc",
+                "Tương cà",
+                "Đường cát",
+                "Đường phèn"
+            ],
+            51
+        ],
+        [
+            [
+                "Nước chanh",
+                "Nước dừa",
+                "Nước giải khát",
+                "Nước ngọt có ga"
+            ],
+            66
+        ],
+        [
+            [
+                "Gel vuốt tóc",
+                "Gạo",
+                "Nước hoa",
+                "Sữa tắm",
+                "Thuốc nhuộm tóc"
+            ],
+            55
+        ],
+        [
+            [
+                "Cá hồi",
+                "Cá thu",
+                "Sữa tươi",
+                "Thịt bò"
+            ],
+            66
+        ],
+        [
+            [
+                "Bánh mì",
+                "Bánh quy",
+                "Phô mai",
+                "Sữa chua",
+                "Sữa tươi"
+            ],
+            50
+        ],
+        [
+            [
+                " chuối",
+                " dâu",
+                " nho",
+                " táo"
+            ],
+            62
+        ],
+        [
+            [
+                " chuối",
+                " dâu",
+                " nho",
+                "Xà phòng"
+            ],
+            62
+        ],
+        [
+            [
+                "Bột giặt",
+                "Nước lọc",
+                "Nước ngọt",
+                "Nước xả vải"
+            ],
+            67
+        ],
+        [
+            [
+                "Dầu gội",
+                "Giấy vệ sinh",
+                "Giấy ăn",
+                "Kem đánh răng"
+            ],
+            68
+        ],
+        [
+            [
+                "Nước  cây",
+                "Nước lọc",
+                "Nước ngọt",
+                "Nước xả vải"
+            ],
+            57
+        ],
+        [
+            [
+                "Chảo",
+                "Nước tăng lực",
+                "Nồi nấu ăn",
+                "Trà"
+            ],
+            67
+        ],
+        [
+            [
+                "Cà phê",
+                "Nước tăng lực",
+                "Nồi nấu ăn",
+                "Trà"
+            ],
+            60
+        ],
+        [
+            [
+                "Dầu ăn",
+                "Nước mắm",
+                "Thực phẩm đóng hộp (rau)",
+                "Thực phẩm đóng hộp (thịt)",
+                "Tiêu"
+            ],
+            52
+        ],
+        [
+            [
+                "Bánh bao đông lạnh",
+                "Bánh chưng đông lạnh",
+                "Pizza đông lạnh",
+                "Snack"
+            ],
+            62
+        ],
+        [
+            [
+                "Bánh bao đông lạnh",
+                "Bánh chưng đông lạnh",
+                "Cá đông lạnh",
+                "Pizza đông lạnh",
+                "Thịt đông lạnh"
+            ],
+            51
+        ],
+        [
+            [
+                "Kem chống nắng",
+                "Khăn giấy cho trẻ em",
+                "Sữa bột cho trẻ em",
+                "Tã giấy"
+            ],
+            67
+        ],
+        [
+            [
+                "Khăn giấy cho trẻ em",
+                "Sữa bột cho trẻ em",
+                "Tã giấy",
+                "Đồ chơi cho trẻ em"
+            ],
+            69
+        ],
+        [
+            [
+                "Gừng",
+                "Lá chanh",
+                "Riềng",
+                "Sả"
+            ],
+            61
+        ],
+        [
+            [
+                "Nước cam",
+                "Nước chanh",
+                "Nước dừa",
+                "Nước giải khát"
+            ],
+            59
+        ],
+        [
+            [
+                "Nước cam",
+                "Nước chanh",
+                "Nước dừa",
+                "Sữa đậu nành"
+            ],
+            64
+        ],
+        [
+            [
+                "Dầu oliu",
+                "Gel vuốt tóc",
+                "Nước hoa",
+                "Sữa tắm",
+                "Thuốc nhuộm tóc"
+            ],
+            50
+        ],
+        [
+            [
+                " cam",
+                " chuối",
+                " táo",
+                "Bánh mì",
+                "Bánh quy"
+            ],
+            57
+        ],
+        [
+            [
+                " cam",
+                " táo",
+                "Bánh mì",
+                "Bánh quy",
+                "Phô mai"
+            ],
+            55
+        ],
+        [
+            [
+                " cam",
+                "Bánh mì",
+                "Bánh quy",
+                "Phô mai",
+                "Sữa chua"
+            ],
+            52
+        ],
+        [
+            [
+                " dâu",
+                " nho",
+                "Dầu gội",
+                "Xà phòng"
+            ],
+            57
+        ],
+        [
+            [
+                " dâu",
+                "Dầu gội",
+                "Kem đánh răng",
+                "Xà phòng"
+            ],
+            62
+        ],
+        [
+            [
+                "Dầu gội",
+                "Giấy vệ sinh",
+                "Kem đánh răng",
+                "Xà phòng"
+            ],
+            57
+        ],
+        [
+            [
+                "Dầu xả",
+                "Kem dưỡng da",
+                "Phấn",
+                "Sữa rửa mặt"
+            ],
+            68
+        ],
+        [
+            [
+                "Cải thìa",
+                "Su su",
+                "Đậu bắp",
+                "Ớt"
+            ],
+            66
+        ],
+        [
+            [
+                "Mayonnaise",
+                "Sữa đặc",
+                "Tương cà",
+                "Tương ớt"
+            ],
+            64
+        ],
+        [
+            [
+                "Dầu dừa",
+                "Dầu oliu",
+                "Mật ong",
+                "Nước hoa",
+                "Sữa tắm"
+            ],
+            51
+        ],
+        [
+            [
+                "Dầu dừa",
+                "Dầu oliu",
+                "Nước hoa",
+                "Sữa tắm",
+                "Thuốc nhuộm tóc"
+            ],
+            59
+        ],
+        [
+            [
+                " cam",
+                " chuối",
+                " nho",
+                " táo",
+                "Bánh quy"
+            ],
+            51
+        ],
+        [
+            [
+                "Cà phê",
+                "Nước  cây",
+                "Nước lọc",
+                "Nước ngọt"
+            ],
+            58
+        ],
+        [
+            [
+                "Dầu ăn",
+                "Muối",
+                "Tiêu",
+                "Đường"
+            ],
+            64
+        ],
+        [
+            [
+                "Bánh bao đông lạnh",
+                "Bánh chưng đông lạnh",
+                "Khoai tây chiên",
+                "Snack"
+            ],
+            54
+        ],
+        [
+            [
+                "Dầu dừa",
+                "Dầu oliu",
+                "Mật ong",
+                "Sữa hạt",
+                "Sữa đậu nành"
+            ],
+            51
+        ],
+        [
+            [
+                "Hạt dẻ",
+                "Hạt hướng dương",
+                "Hạt điều",
+                "Khoai tây chiên",
+                "Son"
+            ],
+            53
+        ],
+        [
+            [
+                "Dầu xả",
+                "Kem chống nắng",
+                "Kem dưỡng da",
+                "Sữa rửa mặt"
+            ],
+            57
+        ],
+        [
+            [
+                "Gừng",
+                "Hành tím",
+                "Riềng",
+                "Sả",
+                "Tỏi"
+            ],
+            51
+        ],
+        [
+            [
+                "Hạt dẻ",
+                "Hạt hướng dương",
+                "Hạt điều",
+                "Khoai tây chiên",
+                "Snack"
+            ],
+            53
+        ]
+    ]
+}
